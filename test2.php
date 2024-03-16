@@ -2,7 +2,7 @@
 
 ini_set("memory_limit", -1);
 
-function main(string $input) {
+function main($input) {
 
   $stone_position = ['b', 'w'];
 
